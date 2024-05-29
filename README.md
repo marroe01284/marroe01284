@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 
 - 🌱 Currently learning: Front-end development
 - 💼 Working on: A personal blog project
-- 🎓 Graduated from: Noroff school of technology and digital design  with a degree in Front-end development
+- 🎓 Graduating from: Noroff school of technology and digital design  with a degree in Front-end development
 - 🌍 From: Oslo, Norway
 - 🧠 Fun fact: i can run 3000m under 11 minutes!
 
