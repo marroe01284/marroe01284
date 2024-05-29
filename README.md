@@ -16,9 +16,10 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 
 ## 🛠️ Skills
 
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks**: in progress
-- **Tools**: Git, WebStorm, VSCode and FIGMA.
+![317755_badge_html_html5_achievement_award_icon](https://github.com/marroe01284/marroe01284/assets/143086706/39e1cca1-50b6-46a4-8e9e-a414ce2af921)![317756_badge_css_css3_achievement_award_icon](https://github.com/marroe01284/marroe01284/assets/143086706/a1cd93c5-29d3-4855-8546-ca7acb5d52cf)
+![652581_code_command_develop_javascript_language_icon](https://github.com/marroe01284/marroe01284/assets/143086706/9600521e-b804-421c-951e-ac5e868e9383)![7564187_figma_logo_brand_icon](https://github.com/marroe01284/marroe01284/assets/143086706/496dfdd3-7002-49a9-a294-16b7464567a3)
+
+
 
 ## 🌟 Featured Projects
 
