@@ -23,12 +23,12 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 
 ## 🌟 Featured Projects
 
-### [THE BLOG](link-to-project)
+### [THE BLOG](https://github.com/marroe01284/The-Blog.git)
 ![the-blog](https://github.com/marroe01284/marroe01284/assets/143086706/4e0a3d53-c16f-4486-abdf-ac23784afd87)
 
 front-end user interface for an existing API blogging application. The application is designed to be responsive and dynamic, allowing users to view blog posts.. [Read more](https://github.com/marroe01284/The-Blog).
 
-### SQUARE EYES (link-to-project)
+### [SQUARE EYES](https://github.com/marroe01284/CA-task-JS.git)
 ![Skjermbilde 2024-05-29 kl  13 23 19](https://github.com/marroe01284/marroe01284/assets/143086706/9f5a47da-c727-4ca5-ad0f-e5daa52d921f)
 
 An exciting project where I learned alot and first started to develop my skills in javascript, and also i [achieved something cool](https://github.com/marroe01284/CA-task-JS).
