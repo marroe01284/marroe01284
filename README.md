@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 - 🌱 Currently learning: Front-end development
 - 💼 Working on: A personal blog project
 - 🎓 Graduated from: Noroff school of technology and digital design  with a degree in Front-end development
-- 🌍 From: [Oslo, Norway]
+- 🌍 From: Oslo, Norway
 - 🧠 Fun fact: i can run 3000m under 11 minutes!
 
 ## 🛠️ Skills
@@ -35,8 +35,8 @@ An exciting project where I learned alot and first started to develop my skills 
 
 ## 📫 Let's Connect!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin)](www.linkedin.com/in/marius-rønning-774877131)
-- [![Personal Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome)](https://yourwebsite.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/marius-rønning-774877131)
+- [![Personal Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome)](https://yourwebsite.com) in progress
 
 ## 📊 GitHub Stats
 
