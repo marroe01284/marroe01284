@@ -1,6 +1,5 @@
 
 # 👋 Hello, World! I'm Marius!
-![IMG_2058](https://github.com/marroe01284/marroe01284/assets/143086706/5e328363-fe25-42c8-a94c-7d0bef8cab0e)
 
 
 
