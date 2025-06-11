@@ -1,50 +1,26 @@
+<h1 align="center">Hi 👋, I'm Marius</h1>
+<h3 align="center">A passionate frontend developer from Norway</h3>
 
-# 👋 Hello, World! I'm Marius!
+- 🔭 I’m currently working on [Hollidaze](https://github.com/marroe01284/Marroe_Exam_Hollidaze)
 
+- 🌱 I’m currently learning **Firebase**
 
+- 👨‍💻 All of my projects are available at [https://marius-port.netlify.app/](https://marius-port.netlify.app/)
 
-Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and over the avrage active human.
+- 📫 How to reach me **marius.ronning@webloftet.no**
 
-## 🚀 About Me
+- 📄 Know about my experiences [https://violet-sidonnie-5.tiiny.site/](https://violet-sidonnie-5.tiiny.site/)
 
-- 🌱 Currently learning: Front-end development
-- 💼 Working on: A booking platform
-- 🎓 Graduating from: Noroff school of technology and digital design  with a degree in Front-end development
-- 🌍 From: Oslo, Norway
+- ⚡ Fun fact **ive read 4 books in 2 weeks**
 
-## 🛠️ Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/marius-rønning-774877131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marius-rønning-774877131" height="30" width="40" /></a>
+</p>
 
-![317755_badge_html_html5_achievement_award_icon](https://github.com/marroe01284/marroe01284/assets/143086706/39e1cca1-50b6-46a4-8e9e-a414ce2af921)![317756_badge_css_css3_achievement_award_icon](https://github.com/marroe01284/marroe01284/assets/143086706/a1cd93c5-29d3-4855-8546-ca7acb5d52cf)
-![652581_code_command_develop_javascript_language_icon](https://github.com/marroe01284/marroe01284/assets/143086706/9600521e-b804-421c-951e-ac5e868e9383)![7564187_figma_logo_brand_icon](https://github.com/marroe01284/marroe01284/assets/143086706/496dfdd3-7002-49a9-a294-16b7464567a3)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marroe01284&show_icons=true&locale=en&layout=compact" alt="marroe01284" /></p>
 
-
-## 🌟 Featured Projects
-
-### [THE BLOG](https://github.com/marroe01284/The-Blog.git)
-![the-blog](https://github.com/marroe01284/marroe01284/assets/143086706/4e0a3d53-c16f-4486-abdf-ac23784afd87)
-
-front-end user interface for an existing API blogging application. The application is designed to be responsive and dynamic, allowing users to view blog posts.. [Read more](https://github.com/marroe01284/The-Blog).
-
-### [SQUARE EYES](https://github.com/marroe01284/CA-task-JS.git)
-![Skjermbilde 2024-05-29 kl  13 23 19](https://github.com/marroe01284/marroe01284/assets/143086706/9f5a47da-c727-4ca5-ad0f-e5daa52d921f)
-
-An exciting project where I learned alot and first started to develop my skills in javascript, and also i [achieved something cool](https://github.com/marroe01284/CA-task-JS).
-
-## 📫 Let's Connect!
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/marius-rønning-774877131)
-- [![Personal Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome)](https://yourwebsite.com) in progress
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=marroe01284&show_icons=true&theme=radical)
-
-## 🎨 Fun Stuff
-
-When I'm not coding, you can find me:
-- 📚 learning salesforce
-- :sweat_drops: running for health
-- :fishing_pole_and_fish: fishing or hunting
-
-Thanks for stopping by! Feel free to explore my repositories and drop me a message if you want to collaborate or talk. Let's build something amazing together! 🚀
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marroe01284&show_icons=true&locale=en" alt="marroe01284" /></p>
